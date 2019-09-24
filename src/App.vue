@@ -24,7 +24,7 @@ export default {
         {id:11,name:"james",age:23},
         {id:12,name:"kebe",age:25},
         {id:13,name:"keli",age:21},
-        {id:14,name:"juanjuan",age:23},
+
       ]
     }
   },

@@ -43,5 +43,7 @@ export default {
 </script>
 
 <style>
-
+#app{
+    color:greenyellow;
+}
 </style>
